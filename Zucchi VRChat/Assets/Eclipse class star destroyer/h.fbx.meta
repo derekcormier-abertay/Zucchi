@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: b74054eff34160b4cab732f3677ab15a
+timeCreated: 1528713287
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box011
+    100002: Box017
+    100004: Box018
+    100006: Box019
+    100008: Box020
+    100010: Box021
+    100012: Box022
+    100014: Box023
+    100016: Cylinder005
+    100018: Cylinder013
+    100020: Cylinder014
+    100022: Cylinder015
+    100024: Cylinder016
+    100026: Cylinder017
+    100028: Cylinder018
+    100030: //RootNode
+    100032: Plane014
+    100034: Plawne002
+    100036: Plawne003
+    100038: Plawne004
+    100040: Plawne005
+    100042: Plawne006
+    100044: Plawne007
+    100046: Plawne008
+    400000: Box011
+    400002: Box017
+    400004: Box018
+    400006: Box019
+    400008: Box020
+    400010: Box021
+    400012: Box022
+    400014: Box023
+    400016: Cylinder005
+    400018: Cylinder013
+    400020: Cylinder014
+    400022: Cylinder015
+    400024: Cylinder016
+    400026: Cylinder017
+    400028: Cylinder018
+    400030: //RootNode
+    400032: Plane014
+    400034: Plawne002
+    400036: Plawne003
+    400038: Plawne004
+    400040: Plawne005
+    400042: Plawne006
+    400044: Plawne007
+    400046: Plawne008
+    2300000: Box011
+    2300002: Box017
+    2300004: Box018
+    2300006: Box019
+    2300008: Box020
+    2300010: Box021
+    2300012: Box022
+    2300014: Box023
+    2300016: Cylinder005
+    2300018: Cylinder013
+    2300020: Cylinder014
+    2300022: Cylinder015
+    2300024: Cylinder016
+    2300026: Cylinder017
+    2300028: Cylinder018
+    2300030: Plane014
+    2300032: Plawne002
+    2300034: Plawne003
+    2300036: Plawne004
+    2300038: Plawne005
+    2300040: Plawne006
+    2300042: Plawne007
+    2300044: Plawne008
+    3300000: Box011
+    3300002: Box017
+    3300004: Box018
+    3300006: Box019
+    3300008: Box020
+    3300010: Box021
+    3300012: Box022
+    3300014: Box023
+    3300016: Cylinder005
+    3300018: Cylinder013
+    3300020: Cylinder014
+    3300022: Cylinder015
+    3300024: Cylinder016
+    3300026: Cylinder017
+    3300028: Cylinder018
+    3300030: Plane014
+    3300032: Plawne002
+    3300034: Plawne003
+    3300036: Plawne004
+    3300038: Plawne005
+    3300040: Plawne006
+    3300042: Plawne007
+    3300044: Plawne008
+    4300000: Cylinder005
+    4300002: Box022
+    4300004: Cylinder013
+    4300006: Cylinder014
+    4300008: Box021
+    4300010: Cylinder016
+    4300012: Plawne008
+    4300014: Box020
+    4300016: Cylinder017
+    4300018: Plawne003
+    4300020: Plawne002
+    4300022: Box011
+    4300024: Box017
+    4300026: Plawne007
+    4300028: Box019
+    4300030: Cylinder018
+    4300032: Box023
+    4300034: Plawne006
+    4300036: Plawne005
+    4300038: Box018
+    4300040: Cylinder015
+    4300042: Plawne004
+    4300044: Plane014
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

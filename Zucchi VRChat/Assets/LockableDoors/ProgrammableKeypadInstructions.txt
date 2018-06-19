@@ -1,0 +1,31 @@
+Programmable Door Prefab
+Fionna#5639
+3/19/2018
+
+To Set Unique Code for each door:
+1. Find the Programmable 4 digits Animator controller in assets.
+2. Duplicate one controller for each door.
+4. Choose the door and put a unique Animator Controller in the Animator component.
+5. Choose one KeypadLockedDoor component
+6. Go to Window--> Animator
+7. Enter the 4 digit code in the Correct Digit A,B,C,and D parameters
+8. Check Unlocked if you want the door to start Unlocked.  
+    To start the door locked, leave unchecked.
+
+To Program Code in-game:
+1. When door is in open state, press the * button on keypad
+2. Enter a new 4 digit code.
+3. Can be reprogrammed as long as door is open.
+
+To prevent re-programming by players in game:
+1. In the hierarchy, navigate to Unlocked component
+2. Disable/delete the ProgramButton
+
+To program a new code in game with Triggers:
+1.Use the Trigger basic action "Animation Int"
+2.Select the correct door as the Receiver
+3.Type (caps count!) Correct Digit A, and for the value put an integer 0-9
+4.Add another identical action for B,C,and D.
+
+To use as a prison, you can also remove/disable the inside "open" button.
+For a one-way door, you can use a Trigger just past the door to close the door using Animation Trigger "Lock".
